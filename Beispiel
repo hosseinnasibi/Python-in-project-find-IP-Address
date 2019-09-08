@@ -1,0 +1,13 @@
+
+This article focus on How to get IP address of your computer in python.
+You have to first import socket library and then use
+
+IP = socket.gethostbyname(hostname) 
+and then print the value of the ip into the print() function your IP address as output as shown in the program given below.
+
+
+
+Output:
+
+Your Computer Name is:pppContainer
+Your Computer IP Address is:10.98.162.168
